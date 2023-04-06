@@ -1,0 +1,6 @@
+1.  What will happen when you execute the following cvde?
+#inlcude<iostream.h>
+void main()
+int i =0;
+i =400*400/400
+cout<<I;
